@@ -13,13 +13,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: Taha EL FILALI
 
-  - Student 2: ❔
+  - Student 2: Ibtissame EL HMIDI
 
-  - Student 3: ❔
+  - Student 3: Noemane EL HRIZI
 
-  - Student 4: ❔
+  - Student 4: Ibrahim EL KALAI
 
 ## Getting Started
 
